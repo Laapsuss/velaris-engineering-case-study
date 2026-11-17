@@ -31,6 +31,17 @@ I was responsible for the whole stack: product design, client, native code, back
 operations and testing. A large part of the implementation was written with AI coding agents
 (Claude Code), under my direction and review.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/images/home-reconnecting.png" alt="Velaris home screen while reconnecting" width="260">
+  &nbsp;&nbsp;
+  <img src="docs/images/home-connected.png" alt="Velaris home screen once connected" width="260">
+</p>
+
+<p align="center"><em>Home screen during reconnection and once connected. The location list
+shows the planned regions; one is enabled during the beta.</em></p>
+
 ## Architecture
 
 ```mermaid
